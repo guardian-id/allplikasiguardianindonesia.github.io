@@ -35,13 +35,10 @@ body{
 }
 .btn1{
     border-radius: 5px;
-    background-color: chartreuse;
-    max-height: 30px;
-    max-width: 120px;
-}
-.btn2{
-    border-radius: 5px;
-    background-color: chartreuse;
+    background-color: white;
+    height: 30px;
+    width: 120px;
+    color: red;
 }
 .container1{
     position: absolute;
@@ -178,5 +175,39 @@ body{
   border-radius: 20px;
   box-shadow: 5px 5px 0px #000;
   color: white;
-
+}
+.container14{
+  position: absolute;
+  text-align:center;
+  width: 300px;
+  height: 350px;
+  top: 1230px;
+  left: 380px;
+  background-color: darkorange;
+  border-radius: 20px;
+  box-shadow: 5px 5px 0px #000;
+}
+.container15{
+  position: absolute;
+  text-align:center;
+  width: 300px;
+  height: 350px;
+  top: 1230px;
+  left: 765px;
+  background-color: darkslateblue;
+  border-radius: 20px;
+  box-shadow: 5px 5px 0px #000;
+  color: white;
+}
+.container16{
+  position: absolute;
+  text-align:center;
+  width: 300px;
+  height: 350px;
+  top: 1230px;
+  left: 1130px;
+  background-color: darkslategray;
+  border-radius: 20px;
+  box-shadow: 5px 5px 0px #000;
+  color: white;
 }
