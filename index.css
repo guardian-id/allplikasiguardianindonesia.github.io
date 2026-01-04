@@ -67,6 +67,7 @@ body{
     left: 765px;
     border-radius: 20px;
     box-shadow: 5px 5px 0px #000;
+    color: white;
 }
 .container4{
     position: absolute;
@@ -231,4 +232,36 @@ body{
   border-radius: 20px;
   box-shadow: 5px 5px 0px #000;
   color: white;
+}
+.container19{
+  position: absolute;
+  text-align: center;
+  width: 300px;
+  height: 340px;
+  top: 1610px;
+  left: 765px;
+  background-color: darkgoldenrod;
+  border-radius: 20px;
+  box-shadow: 5px 5px 0px #000;
+}
+.container20{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 350px;
+    background-color: cadetblue;
+    top: 1610px;
+    left: 1130px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px #000;
+}
+.container21{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 350px;
+    background-color: aquamarine;
+    top: 1990px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px #000;
 }
